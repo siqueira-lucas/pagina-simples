@@ -1,1 +1,1 @@
-document.querySelector('body.h1').innerHTML="<s>Principal</s>  Eu sou o Script"
+document.querySelector('body').innerHTML="<h1><s>Principal</s> </h1> Eu sou o Script"
