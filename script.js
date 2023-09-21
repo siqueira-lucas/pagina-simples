@@ -1,0 +1,1 @@
+document.querySelector('body').innerHTML="<h1><s>Principal</s> </h1> Eu sou o Script"
